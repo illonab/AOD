@@ -260,6 +260,9 @@ label {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center; }
+  @media (max-width: 768px) {
+    .footer__social {
+      margin: 20px 0 0 0; } }
 
 .social__link {
   margin: 0 15px 0 0; }
@@ -274,6 +277,9 @@ label {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center; }
+  @media (max-width: 768px) {
+    .footer__dev {
+      margin: 20px 0 0 0; } }
 
 .dev__text {
   margin: 0 10px 0 0;
